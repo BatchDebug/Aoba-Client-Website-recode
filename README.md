@@ -1,2 +1,2 @@
 # Aoba Website Recode
-aobaclient.com
+https://aobaclient.com
